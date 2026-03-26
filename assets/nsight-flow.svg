@@ -1,0 +1,16 @@
+<svg width="1440" height="810" viewBox="0 0 1440 810" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="810" fill="#0A0A0A"/>
+  <rect x="84" y="72" width="1272" height="666" rx="20" fill="#101010" stroke="#2D2D2D"/>
+  <rect x="140" y="130" width="240" height="70" rx="12" fill="#E5E5E5"/>
+  <rect x="140" y="220" width="240" height="70" rx="12" fill="#E5E5E5"/>
+  <rect x="140" y="310" width="240" height="70" rx="12" fill="#E5E5E5"/>
+  <rect x="140" y="400" width="240" height="70" rx="12" fill="#E5E5E5"/>
+  <rect x="140" y="490" width="240" height="70" rx="12" fill="#E5E5E5"/>
+  <rect x="430" y="130" width="850" height="430" rx="14" fill="#F3F3F3"/>
+  <path d="M380 165H420" stroke="#19A5FF" stroke-width="8"/>
+  <path d="M380 255H420" stroke="#19A5FF" stroke-width="8"/>
+  <path d="M380 345H420" stroke="#19A5FF" stroke-width="8"/>
+  <path d="M380 435H420" stroke="#19A5FF" stroke-width="8"/>
+  <path d="M380 525H420" stroke="#19A5FF" stroke-width="8"/>
+  <text x="140" y="640" fill="#BDBDBD" font-size="44" font-family="Arial, sans-serif">nSight Interaction Map</text>
+</svg>

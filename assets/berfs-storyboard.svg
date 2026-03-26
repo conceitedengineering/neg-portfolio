@@ -1,0 +1,17 @@
+<svg width="1440" height="810" viewBox="0 0 1440 810" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="810" fill="#070707"/>
+  <rect x="78" y="82" width="1284" height="646" rx="24" fill="#111111" stroke="#2E2E2E"/>
+  <rect x="130" y="138" width="240" height="140" rx="16" fill="#1B1B1B" stroke="#5C5C5C"/>
+  <rect x="442" y="138" width="240" height="140" rx="16" fill="#1B1B1B" stroke="#5C5C5C"/>
+  <rect x="754" y="138" width="240" height="140" rx="16" fill="#1B1B1B" stroke="#5C5C5C"/>
+  <rect x="1066" y="138" width="240" height="140" rx="16" fill="#1B1B1B" stroke="#5C5C5C"/>
+  <rect x="286" y="414" width="240" height="140" rx="16" fill="#121912" stroke="#3BC564"/>
+  <rect x="598" y="414" width="240" height="140" rx="16" fill="#121912" stroke="#3BC564"/>
+  <rect x="910" y="414" width="240" height="140" rx="16" fill="#121912" stroke="#3BC564"/>
+  <path d="M370 208H442" stroke="#7E7E7E" stroke-width="6"/>
+  <path d="M682 208H754" stroke="#7E7E7E" stroke-width="6"/>
+  <path d="M994 208H1066" stroke="#7E7E7E" stroke-width="6"/>
+  <path d="M526 484H598" stroke="#3BC564" stroke-width="6"/>
+  <path d="M838 484H910" stroke="#3BC564" stroke-width="6"/>
+  <text x="130" y="650" fill="#DCDCDC" font-size="48" font-family="Arial, sans-serif">Story Path Prototypes</text>
+</svg>

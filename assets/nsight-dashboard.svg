@@ -1,0 +1,12 @@
+<svg width="1440" height="810" viewBox="0 0 1440 810" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="810" fill="#050505"/>
+  <rect x="64" y="64" width="1312" height="682" rx="24" fill="#0F0F0F" stroke="#2B2B2B"/>
+  <rect x="108" y="110" width="420" height="286" rx="18" fill="#F0F0F0"/>
+  <rect x="548" y="110" width="380" height="286" rx="18" fill="#DBDBDB"/>
+  <rect x="948" y="110" width="384" height="286" rx="18" fill="#F0F0F0"/>
+  <rect x="108" y="420" width="1224" height="280" rx="18" fill="#1A1A1A" stroke="#2E2E2E"/>
+  <circle cx="180" cy="184" r="36" fill="#FFA33A"/>
+  <circle cx="620" cy="184" r="36" fill="#4BB4FF"/>
+  <circle cx="1024" cy="184" r="36" fill="#6CE36A"/>
+  <text x="112" y="468" fill="#EEEEEE" font-size="48" font-family="Arial, sans-serif">Case Safety Dashboard</text>
+</svg>
